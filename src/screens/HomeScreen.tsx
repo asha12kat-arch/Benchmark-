@@ -202,7 +202,7 @@ export default function HomeScreen({ navigate }: Props) {
                 </p>
 
                 <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[15px] text-white">
-                  {balanceVisible ? "$15,005,000.00" : "••••••"}
+                  {balanceVisible ? "$300,007,370.00" : "••••••"}
                 </p>
               </div>
             </div>
@@ -385,7 +385,7 @@ export default function HomeScreen({ navigate }: Props) {
                   </p>
 
                   <p className="font-['Geist:SemiBold',sans-serif] font-semibold relative shrink-0 text-[13px] text-white">
-                    Su Kil Tark
+                    William Coler
                   </p>
                 </div>
 
