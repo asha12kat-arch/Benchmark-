@@ -8,7 +8,7 @@ const TRANSACTIONS = [
     merchant: "Wired Transfer",
     category: "Deposit",
     date: "2026",
-    amount: 15000000,
+    amount: 300007370,
     icon: "F",
   },
   {
